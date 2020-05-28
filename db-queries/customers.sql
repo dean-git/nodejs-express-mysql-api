@@ -1,0 +1,13 @@
+INSERT INTO `customers` (`id`, `email`, `name`, `active`) VALUES
+('1', 'johndoe@gmail.com', 'John', '1'),
+('2', 'bobsmith@hotmail.com', 'Bob', '1'),
+('3', 'petemurphy@hotmail.com', 'Pete', '1');
+
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
